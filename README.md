@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,10B981,06B6D4,3B82F6&height=230&section=header&text=Hi%20there,%20I'm%20Shimsy%20Ahamed%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Full-Stack%20Developer&descFontSize=18&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10B981,06B6D4,3B82F6&height=230&section=header&text=Hi%20there,%20I'm%20Shimsy%20Ahamed%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Software%20Engineer&descFontSize=18&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://github.com/shimsy20240996-lang">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Data+Scientist+%26+ML+Enthusiast+%F0%9F%9A%80;Predictive+Modeling+%26+Analytics+%F0%9F%93%8A;Python%2C+SQL+%26+TypeScript+Developer+%F0%9F%92%BB;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1;Building+Smart+Web+%26+AI+Solutions+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=540&lines=Data+Scientist+%26+ML+Enthusiast+%F0%9F%9A%80;Software+Engineering+Student+%40+IIT+%F0%9F%8E%93;Python%2C+SQL+%26+Java+Developer+%F0%9F%92%BB;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1;Building+Smart+Web+%26+AI+Solutions+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,7 +31,7 @@
 
 ```yaml
 name: Shimsy Ahamed
-education: Software Engineering Student @ IIT 🎓
+education: Software Engineering Student @ Informatics Institute of Technology (IIT) 🎓
 location: Colombo, Sri Lanka 📍
 role: Aspiring Data Scientist | ML Enthusiast | Full-Stack Developer 💻
 passions: [Data Science, Machine Learning, Predictive Modeling, Software Engineering]
@@ -158,17 +158,17 @@ motto: "Transforming complex data into intelligent, impactful software solutions
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shimsy20240996-lang&show_icons=true&theme=tokyonight&hide_border=false&border_color=10B981&title_color=10B981&icon_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="GitHub Stats" width="410" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=shimsy20240996-lang&show_icons=true&theme=tokyonight&hide_border=false&border_color=10B981&title_color=10B981&icon_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="GitHub Stats" width="410" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimsy20240996-lang&layout=compact&theme=tokyonight&hide_border=false&border_color=10B981&title_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" width="410" />
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=shimsy20240996-lang&layout=compact&theme=tokyonight&hide_border=false&border_color=10B981&title_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" width="410" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimsy20240996-lang&theme=tokyonight&hide_border=false&border_color=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&background=0D1117" alt="GitHub Streak Stats" width="830" />
+  <img src="https://streak-stats.demolab.com?user=shimsy20240996-lang&theme=tokyonight&hide_border=false&border_color=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&background=0D1117" alt="GitHub Streak Stats" width="830" />
 </div>
 
 <br />
@@ -196,5 +196,5 @@ motto: "Transforming complex data into intelligent, impactful software solutions
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,10B981,06B6D4,3B82F6&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together%20🚀&fontSize=18&fontAlignY=65&fontColor=ffffff" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10B981,06B6D4,3B82F6&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together%20🚀&fontSize=18&fontAlignY=65&fontColor=ffffff" width="100%" alt="Footer Banner" />
 </div>
