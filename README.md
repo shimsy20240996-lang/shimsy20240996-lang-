@@ -1,56 +1,197 @@
-<h1 align="center">Hi 👋, I'm Shimsy Ahamed</h1>
-<h3 align="center">A passionate Data Scientist & Machine Learning Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,10B981,06B6D4,3B82F6&height=230&section=header&text=Hi%20there,%20I'm%20Shimsy%20Ahamed%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Full-Stack%20Developer&descFontSize=18&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/shimsy20240996-lang">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Enthusiast;Python+%26+SQL+Expert;Turning+Data+into+Insights" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Data+Scientist+%26+ML+Enthusiast+%F0%9F%9A%80;Predictive+Modeling+%26+Analytics+%F0%9F%93%8A;Python%2C+SQL+%26+TypeScript+Developer+%F0%9F%92%BB;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1;Building+Smart+Web+%26+AI+Solutions+%E2%9C%A8" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<!-- Social Links -->
-<p align="center">
-  <a href="mailto:shimsyahamed03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/shimsy-ahamed-0bb128333/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
- 
-</p>
+<br />
+
+<div align="center">
+  <a href="https://shimsy-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/shimsy-ahamed-0bb128333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:shimsyahamed03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shimsy20240996-lang&color=10B981&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br />
 
 ---
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=shimsy20240996-lang&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&text_color=777777&icon_color=10B981" alt="GitHub Stats" />
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Data Science, Predictive Modeling, and Analytics projects**.
-- 🌱 I’m currently diving deeper into **Deep Learning, NLP, and MLOps**.
-- 👯 I’m looking to collaborate on **Open Source ML Projects & Data-Driven Solutions**.
-- 💬 Ask me about **Python, Machine Learning, Data Visualization, and SQL**.
-- ⚡ Fun fact: I love finding hidden patterns in messy datasets!
+```yaml
+name: Shimsy Ahamed
+role: Data Scientist | Machine Learning Enthusiast | Software Developer
+location: Global / Remote
+passions: [Data Science, Predictive Modeling, Deep Learning, Full-Stack Development]
+currently_learning: [Advanced Deep Learning, NLP Architectures, MLOps Pipelines]
+motto: "Transforming complex datasets into intelligent, impactful decisions."
+```
+
+- 🔭 **Currently Focusing On**: Predictive Modeling, Exploratory Data Analysis, and Data-Driven Web Applications.
+- 🌐 **Portfolio Website**: Check out my work live at [shimsy-portfolio.vercel.app](https://shimsy-portfolio.vercel.app).
+- 🌱 **Diving Deep Into**: Deep Learning (CNNs, RNNs, Transformers), Natural Language Processing, and End-to-End MLOps.
+- 💬 **Ask Me About**: Python, SQL, Machine Learning Algorithms, Data Visualization (Matplotlib/Seaborn), and Full-Stack Web Development.
+- 👯 **Open For**: Collaborative Open-Source AI/ML projects, internships, and data science opportunities.
+- ⚡ **Fun Fact**: I love finding the signal in the noise — solving intricate puzzles within messy datasets!
 
 <br />
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
-</p>
-
-<br />
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimsy20240996-lang&theme=transparent&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981&currStreakNum=777777&sideNums=777777&sideLabels=777777&dates=777777" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimsy20240996-lang&layout=compact&theme=transparent&hide_border=true&title_color=10B981&text_color=777777" alt="Top Languages" width="48%" />
-</div>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontAlignY=70&descAlignY=51&descAlign=62&fontColor=ffffff" />
+
+### 🛠️ Tech Stack & Toolbox
+
+<div align="center">
+
+#### 🧠 Data Science & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab" />
 </p>
+
+#### 🌐 Web Development & Software Engineering
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+#### 🗄️ Databases & Cloud / Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+</div>
+
+<br />
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌟 <a href="https://github.com/shimsy20240996-lang/Shimsy-Portfolio">Shimsy Portfolio</a></h3>
+      <p align="center">
+        <a href="https://shimsy-portfolio.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-10B981?style=flat-square&logo=vercel" alt="Live Demo" />
+        </a>
+      </p>
+      <p>Modern, responsive personal portfolio web application showcasing projects, technical background, and interactive UI experiences.</p>
+      <p><b>Tech:</b> <code>TypeScript</code> • <code>React</code> • <code>Next.js</code> • <code>CSS Modules</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✈️ <a href="https://github.com/shimsy20240996-lang/airport-data-analysis-python">Airport Flight Data Analysis</a></h3>
+      <p align="center">
+        <a href="https://github.com/shimsy20240996-lang/airport-data-analysis-python">
+          <img src="https://img.shields.io/badge/Source-GitHub-3776AB?style=flat-square&logo=github" alt="GitHub Repo" />
+        </a>
+      </p>
+      <p>Data science & analytics program to analyze airport flight logs, compute distribution statistics, and generate clear histogram visualizations.</p>
+      <p><b>Tech:</b> <code>Python</code> • <code>Pandas</code> • <code>Matplotlib</code> • <code>Data Visualization</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/shimsy20240996-lang/SHIM-chatbot">SHIM Chatbot</a></h3>
+      <p align="center">
+        <a href="https://github.com/shimsy20240996-lang/SHIM-chatbot">
+          <img src="https://img.shields.io/badge/Source-GitHub-6366F1?style=flat-square&logo=github" alt="GitHub Repo" />
+        </a>
+      </p>
+      <p>Intelligent interactive chatbot application providing responsive conversational interactions and automated query assistance.</p>
+      <p><b>Tech:</b> <code>Python / JS</code> • <code>NLP</code> • <code>Conversational AI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎫 <a href="https://github.com/shimsy20240996-lang/Token-Management-System">Token Management System</a></h3>
+      <p align="center">
+        <a href="https://github.com/shimsy20240996-lang/Token-Management-System">
+          <img src="https://img.shields.io/badge/Source-GitHub-3178C6?style=flat-square&logo=github" alt="GitHub Repo" />
+        </a>
+      </p>
+      <p>Structured queue and service token processing application designed to streamline customer queueing workflows.</p>
+      <p><b>Tech:</b> <code>TypeScript</code> • <code>JavaScript</code> • <code>Web System</code></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=shimsy20240996-lang&show_icons=true&theme=tokyonight&hide_border=false&border_color=10B981&title_color=10B981&icon_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="GitHub Stats" width="410" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimsy20240996-lang&layout=compact&theme=tokyonight&hide_border=false&border_color=10B981&title_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" width="410" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimsy20240996-lang&theme=tokyonight&hide_border=false&border_color=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&background=0D1117" alt="GitHub Streak Stats" width="830" />
+</div>
+
+<br />
+
+---
+
+### 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  <p>I'm always open to discussing Data Science projects, Machine Learning research, and exciting software opportunities.</p>
+  
+  <a href="https://www.linkedin.com/in/shimsy-ahamed-0bb128333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:shimsyahamed03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://shimsy-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,10B981,06B6D4,3B82F6&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together%20🚀&fontSize=18&fontAlignY=65&fontColor=ffffff" width="100%" alt="Footer Banner" />
+</div>
