@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10B981,06B6D4,3B82F6&height=230&section=header&text=Hi%20there,%20I'm%20Shimsy%20Ahamed%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Developer&descFontSize=18&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10B981,06B6D4,3B82F6&height=230&section=header&text=Hi%20there,%20I'm%20Shimsy%20Ahamed%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Engineer&descFontSize=18&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://github.com/shimsy20240996-lang">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=540&lines=Computer+Science+Student+%F0%9F%8E%93;Data+Scientist+%26+ML+Enthusiast+%F0%9F%9A%80;Python%2C+SQL+%26+Java+Developer+%F0%9F%92%BB;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1;Building+Smart+Web+%26+AI+Solutions+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=540&lines=Computer+Science+Student+%F0%9F%8E%93;Data+Scientist+%26+AI%2FML+Enthusiast+%F0%9F%9A%80;Python%2C+SQL+%26+Java+Developer+%F0%9F%92%BB;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1;Building+Smart+AI+%26+Software+Solutions+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 name: Shimsy Ahamed
 education: Computer Science Student 🎓
 location: Colombo, Sri Lanka 📍
-role: Aspiring Data Scientist | ML Enthusiast | Full-Stack Developer 💻
+role: Aspiring Data Scientist | AI/ML Engineer | Software Developer 💻
 passions: [Data Science, Machine Learning, Predictive Modeling, Software Engineering]
 currently_learning: [Deep Learning, NLP, Advanced Algorithms, MLOps]
 motto: "Transforming complex data into intelligent, impactful software solutions."
