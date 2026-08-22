@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10B981,06B6D4,3B82F6&height=230&section=header&text=Hi%20there,%20I'm%20Shimsy%20Ahamed%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Software%20Engineer&descFontSize=18&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10B981,06B6D4,3B82F6&height=230&section=header&text=Hi%20there,%20I'm%20Shimsy%20Ahamed%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Developer&descFontSize=18&descAlignY=64&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://github.com/shimsy20240996-lang">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=540&lines=Data+Scientist+%26+ML+Enthusiast+%F0%9F%9A%80;Software+Engineering+Student+%40+IIT+%F0%9F%8E%93;Python%2C+SQL+%26+Java+Developer+%F0%9F%92%BB;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1;Building+Smart+Web+%26+AI+Solutions+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=540&lines=Computer+Science+Student+%F0%9F%8E%93;Data+Scientist+%26+ML+Enthusiast+%F0%9F%9A%80;Python%2C+SQL+%26+Java+Developer+%F0%9F%92%BB;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1;Building+Smart+Web+%26+AI+Solutions+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://shimsy-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  <a href="https://shimsy20240996-lang.github.io/Shimsy-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-10B981?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge" />
   </a>
   <a href="https://www.linkedin.com/in/shimsy-ahamed-0bb128333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -31,7 +31,7 @@
 
 ```yaml
 name: Shimsy Ahamed
-education: Software Engineering Student @ Informatics Institute of Technology (IIT) 🎓
+education: Computer Science Student 🎓
 location: Colombo, Sri Lanka 📍
 role: Aspiring Data Scientist | ML Enthusiast | Full-Stack Developer 💻
 passions: [Data Science, Machine Learning, Predictive Modeling, Software Engineering]
@@ -39,12 +39,12 @@ currently_learning: [Deep Learning, NLP, Advanced Algorithms, MLOps]
 motto: "Transforming complex data into intelligent, impactful software solutions."
 ```
 
-- 🎓 **Education**: Software Engineering Student at **Informatics Institute of Technology (IIT)**.
+- 🎓 **Education**: **Computer Science Student**.
 - 🔭 **Currently Focusing On**: Predictive Modeling, Exploratory Data Analysis, and Data-Driven Web Applications.
-- 🌐 **Portfolio Website**: Check out my work live at [shimsy-portfolio.vercel.app](https://shimsy-portfolio.vercel.app).
+- 🌐 **Portfolio Website**: Check out my work live at [shimsy20240996-lang.github.io/Shimsy-Portfolio](https://shimsy20240996-lang.github.io/Shimsy-Portfolio/).
 - 🌱 **Diving Deep Into**: Deep Learning (CNNs, RNNs, Transformers), Natural Language Processing, and End-to-End MLOps.
 - 💬 **Ask Me About**: Python, Java, SQL, Machine Learning Algorithms, Data Visualization, and Full-Stack Web Development.
-- 👯 **Open For**: Collaborative Open-Source AI/ML projects, internships, and developer opportunities.
+- 👯 **Open For**: Collaborative Open-Source AI/ML projects, internships, and software development opportunities.
 - ⚡ **Fun Fact**: I love finding the signal in the noise — solving intricate puzzles within messy datasets!
 
 <br />
@@ -106,12 +106,12 @@ motto: "Transforming complex data into intelligent, impactful software solutions
     <td width="50%" valign="top">
       <h3 align="center">🌟 <a href="https://github.com/shimsy20240996-lang/Shimsy-Portfolio">Shimsy Portfolio</a></h3>
       <p align="center">
-        <a href="https://shimsy-portfolio.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-10B981?style=flat-square&logo=vercel" alt="Live Demo" />
+        <a href="https://shimsy20240996-lang.github.io/Shimsy-Portfolio/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-10B981?style=flat-square&logo=githubpages&logoColor=white" alt="Live Demo" />
         </a>
       </p>
       <p>Modern, responsive personal portfolio web application showcasing projects, technical background, and interactive UI experiences.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> • <code>React</code> • <code>Next.js</code> • <code>CSS Modules</code></p>
+      <p><b>Tech:</b> <code>TypeScript</code> • <code>React</code> • <code>Next.js</code> • <code>GitHub Pages</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✈️ <a href="https://github.com/shimsy20240996-lang/airport-data-analysis-python">Airport Flight Data Analysis</a></h3>
@@ -188,8 +188,8 @@ motto: "Transforming complex data into intelligent, impactful software solutions
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://shimsy-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://shimsy20240996-lang.github.io/Shimsy-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20Work-10B981?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
