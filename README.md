@@ -31,18 +31,20 @@
 
 ```yaml
 name: Shimsy Ahamed
-role: Data Scientist | Machine Learning Enthusiast | Software Developer
-location: Global / Remote
-passions: [Data Science, Predictive Modeling, Deep Learning, Full-Stack Development]
-currently_learning: [Advanced Deep Learning, NLP Architectures, MLOps Pipelines]
-motto: "Transforming complex datasets into intelligent, impactful decisions."
+education: Software Engineering Student @ IIT 🎓
+location: Colombo, Sri Lanka 📍
+role: Aspiring Data Scientist | ML Enthusiast | Full-Stack Developer 💻
+passions: [Data Science, Machine Learning, Predictive Modeling, Software Engineering]
+currently_learning: [Deep Learning, NLP, Advanced Algorithms, MLOps]
+motto: "Transforming complex data into intelligent, impactful software solutions."
 ```
 
+- 🎓 **Education**: Software Engineering Student at **Informatics Institute of Technology (IIT)**.
 - 🔭 **Currently Focusing On**: Predictive Modeling, Exploratory Data Analysis, and Data-Driven Web Applications.
 - 🌐 **Portfolio Website**: Check out my work live at [shimsy-portfolio.vercel.app](https://shimsy-portfolio.vercel.app).
 - 🌱 **Diving Deep Into**: Deep Learning (CNNs, RNNs, Transformers), Natural Language Processing, and End-to-End MLOps.
-- 💬 **Ask Me About**: Python, SQL, Machine Learning Algorithms, Data Visualization (Matplotlib/Seaborn), and Full-Stack Web Development.
-- 👯 **Open For**: Collaborative Open-Source AI/ML projects, internships, and data science opportunities.
+- 💬 **Ask Me About**: Python, Java, SQL, Machine Learning Algorithms, Data Visualization, and Full-Stack Web Development.
+- 👯 **Open For**: Collaborative Open-Source AI/ML projects, internships, and developer opportunities.
 - ⚡ **Fun Fact**: I love finding the signal in the noise — solving intricate puzzles within messy datasets!
 
 <br />
@@ -68,6 +70,7 @@ motto: "Transforming complex datasets into intelligent, impactful decisions."
 
 #### 🌐 Web Development & Software Engineering
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
