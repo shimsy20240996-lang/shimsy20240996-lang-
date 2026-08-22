@@ -155,20 +155,13 @@ motto: "Transforming complex data into intelligent, impactful software solutions
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=shimsy20240996-lang&show_icons=true&theme=tokyonight&hide_border=false&border_color=10B981&title_color=10B981&icon_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="GitHub Stats" width="410" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=shimsy20240996-lang&layout=compact&theme=tokyonight&hide_border=false&border_color=10B981&title_color=10B981&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" width="410" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=shimsy20240996-lang&theme=tokyonight&hide_border=false&border_color=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&background=0D1117" alt="GitHub Streak Stats" width="100%" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shimsy20240996-lang&theme=tokyonight&hide_border=false&border_color=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981&background=0D1117" alt="GitHub Streak Stats" width="830" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimsy20240996-lang&theme=tokyo-night&bg_color=0D1117&color=10B981&line=10B981&point=38BDF8&area=true&hide_border=false&border_color=10B981" alt="GitHub Contribution Activity Graph" width="100%" />
 </div>
 
 <br />
